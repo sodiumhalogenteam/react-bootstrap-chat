@@ -1,0 +1,54 @@
+{
+  "name": "react-bootstrap-chat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/jest": "24.0.19",
+    "@types/node": "12.11.2",
+    "@types/react": "16.9.9",
+    "@types/react-dom": "16.9.2",
+    "@types/styled-components": "^4.1.19",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "moment": "^2.24.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-moment": "^0.9.6",
+    "styled-components": "^4.4.0",
+    "typescript": "3.6.4"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^2.1.2",
+    "prettier": "^1.18.2",
+    "prettier-eslint": "^9.0.0",
+    "react-scripts": "3.2.0",
+    "typescript-plugin-styled-components": "^1.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
